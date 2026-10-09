@@ -1,16 +1,109 @@
-# React + Vite
+# Fanny Boireau — Software Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I'm a junior software engineer with a background in management and a strong interest in web development and software engineering.
 
-Currently, two official plugins are available:
+This portfolio showcases my projects, technical skills and professional background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About Me
 
-## React Compiler
+After several years in management, I decided to pursue my interest in technology and web development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm currently building practical web applications to strengthen my skills in frontend and backend development, database management and software design.
 
-## Expanding the ESLint configuration
+I'm open to junior software engineering and web development opportunities, including international opportunities.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Portfolio Features
+
+* **Bilingual interface:** French and English.
+* **Responsive design:** Adapted to desktop, tablet and mobile screens.
+* **Project showcase:** Overview of my personal and training projects.
+* **Project details:** Technologies, descriptions and links to project repositories.
+* **Contact page:** A way to get in touch about professional opportunities.
+
+## Tech Stack
+
+* **Frontend:** React, JavaScript, HTML, CSS
+* **Styling:** Tailwind CSS
+* **Routing:** React Router
+* **Build tool:** Vite
+* **Tools:** Git, GitHub
+
+## Featured Projects
+
+### My Weekly TaskFlow
+
+A weekly task management application featuring authentication, task status tracking and an AI-powered feature.
+
+**Technologies:** React, Tailwind CSS, Express, MySQL, JWT
+
+### Mon Mini CRM
+
+A customer management application designed to centralise client information and simplify follow-up.
+
+**Technologies:** React, Express, Sequelize, MySQL
+
+### Touche pas au klaxon
+
+A carpooling web application built with PHP MVC, featuring trip searches, bookings and user management.
+
+**Technologies:** PHP, MVC, PDO, MySQL, Tailwind CSS
+
+### Trouve ton artisan
+
+A web application designed to help users find tradespeople by category.
+
+**Technologies:** React, Tailwind CSS, Express, MySQL
+
+## Certifications
+
+* **Introduction to Generative AI** — Google Cloud Skills Boost
+
+## Run Locally
+
+### Prerequisites
+
+* Node.js
+* npm
+* Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Navigate to the project directory:
+
+```bash
+cd mon-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+To build the project for production:
+
+```bash
+npm run build
+```
+
+## Contact
+
+* **GitHub:** https://github.com/FaBo1235
+
+I'm open to discussing junior software engineering opportunities, web development projects and collaborations.
+
+---
+
+*Built with React and Tailwind CSS.*
