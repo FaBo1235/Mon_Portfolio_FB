@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss()],
-    base: '/Mon_portfolio_FB/',
+    base: '/Mon_Portfolio_FB/',
 })
