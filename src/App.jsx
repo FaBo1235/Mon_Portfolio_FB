@@ -10,7 +10,7 @@ import Portfolio from "./pages/Portfolio.jsx";
 
 function App() {
   return (
-    <BrowserRouter basename="{import.meta.env.BASE_URL}">
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<Home />} />
